@@ -23,3 +23,8 @@ El proyecto consiste en crear un ambiente virtual en el que se recrea un zoológ
 
 
 Dentro del repositorio se encuentra el código del programa el cual se deberá compilar y ejecutar para mostrar el entorno visual.
+
+Por problemas que tuvimos en GIT HUB, subimos todo lo necesario para el proyecto en Drive
+El repositorio se corrompio y no nos permite subir ningun archivo.
+El Link del Drive: 
+https://drive.google.com/drive/folders/1kLLwIwSIgK3zApu2m-QogIfUnrjdy3j1?usp=sharing
